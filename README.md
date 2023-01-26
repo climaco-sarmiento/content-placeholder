@@ -9,7 +9,8 @@ This is a cool radiant animation effect for loading content impression. It is ba
 
 ### Screenshot
 
-![my screenshot](./images/Screenshot.png)
+![my screenshot](./images/Screenshot1.png)
+![my screenshot](./images/Screenshot2.png)
 
 ### Author
 
